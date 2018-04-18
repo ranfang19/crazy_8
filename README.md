@@ -1,10 +1,10 @@
-# Crazy 8 
-# 8 Américain
+Crazy 8 
+8 Américain
 https://fr.wikipedia.org/wiki/8_américain
 
 Avec :
 
-UML
+UML<br/>
 joueurs virtuels
 3 types de variante
 3 types de stratégies (interface)
