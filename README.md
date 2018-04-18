@@ -1,5 +1,5 @@
 <b>Crazy 8</b><br/>
-<b>8 Américain</b<br/>
+<b>8 Américain</b><br/>
 https://fr.wikipedia.org/wiki/8_américain
 
 <b>Avec : </b>
