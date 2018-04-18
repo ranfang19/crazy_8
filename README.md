@@ -1,8 +1,8 @@
-Crazy 8<br/>
-8 Américain<br/>
+<b>Crazy 8</b><br/>
+<b>8 Américain</b<br/>
 https://fr.wikipedia.org/wiki/8_américain
 
-Avec :
+<b>Avec : </b>
 
 <ul>
 <li>UML</li><br/>
