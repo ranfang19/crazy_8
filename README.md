@@ -5,7 +5,7 @@ https://fr.wikipedia.org/wiki/8_américain
 Avec :
 
 <ul>
-<li>UML<br/></li>
+<li>UML</li><br/>
 <li>joueurs virtuels</li><br/>
 <li>3 types de variante</li><br/>
 <li>3 types de stratégies (interface)</li><br/>
